@@ -1,0 +1,21 @@
+{
+  "name": "Propiedad OW3 #1",
+  "description": "Invierte en nuestras propiedades en OW3.com",
+  "external_url": "https://OW3.co/",
+  "image": "https://drive.google.com/file/d/1BfAkp_hpPYKApA5mOtLLfQXOTyCeoyA6/view?usp=sharing",
+  "attributes": [
+    {
+      "trait_type": "Lugar",
+      "value": "Colombia"
+    },
+    {
+      "trait_type": "Pisos",
+      "value": "2"
+    },
+    {
+      "trait_type": "Acabados",
+      "value": "Elegantes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

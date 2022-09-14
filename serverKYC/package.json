@@ -1,0 +1,23 @@
+{
+  "name": "bloex_oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafasantama/bloex_oracle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafasantama/bloex_oracle/issues"
+  },
+  "homepage": "https://github.com/rafasantama/bloex_oracle#readme",
+  "dependencies": {
+    "ethers": "^5.5.4",
+    "readline": "^1.3.0"
+  }
+}
